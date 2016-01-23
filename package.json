@@ -1,0 +1,17 @@
+{
+  "name": "Example",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Andrew Alegre",
+  "private": true,
+  "devDependencies": {
+    "brunch-signature": "^1.0.1",
+    "clean-css-brunch": "^1.7.2",
+    "css-brunch": "^1.7.0",
+    "iced-coffee-script-brunch": "^1.7.0",
+    "jade-pages-brunch": "^1.7.9",
+    "javascript-brunch": "^1.7.1",
+    "stylus-brunch": "^1.8.1",
+    "uglify-js-brunch": "^1.7.8"
+  }
+}
